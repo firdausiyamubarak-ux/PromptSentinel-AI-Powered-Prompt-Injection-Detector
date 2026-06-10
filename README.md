@@ -14,6 +14,7 @@ As AI systems are deployed in hospitals, banks, legal firms, and government serv
 | V1 | TF-IDF + Random Forest | 59.52% | Fails on subtle and obfuscated attacks |
 | V2 | BERT (fine-tuned) | 92.86% | Captures semantic intent across attack types |
 | Improvement | Deep Learning vs Classical | +33.34% | Demonstrates value of contextual understanding |
+![PromptSentinel Results](promptsentinel_comparison.png)<img width="2011" height="728" alt="promptsentinel_comparison (1)" src="https://github.com/user-attachments/assets/f8259029-a856-4b35-b1de-711791b6f4bb" />
 
 🎯 Why the Gap Between V1 and V2 Matters
 
